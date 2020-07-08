@@ -1,0 +1,47 @@
+
+#main {
+  background-color: lightgrey;
+  max-width: 100%;
+  top: 10px;
+  bottom: 10px;
+  padding: 10px 10px 10px 10px;
+  margin-top: 10px;
+  
+}
+#image{
+	position: relative;
+	max-width: 100%;
+	padding: 40px 10px 10px 10px;
+	margin: 0 auto;
+	display: block;
+
+}
+#img-div{
+	background-color: white;
+	position: relative;
+	text-align:center;
+	width: 100%;
+    height: auto ;
+    position: relative;
+}
+#tribute-info{
+  max-width: 900px;
+  margin: auto;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+#title{
+	text-align: center;
+	font-size: 40px;
+}
+#additional_title{
+  text-align: center;
+	font-size: 20px;
+}
+#img-caption{
+	font-style: Georgia;
+	margin: auto;
+	max-width: 500px;
+}
+#quote{
+	max-width: 900px;
+}
